@@ -3,3 +3,9 @@
 ################################################################################
 
 /.vs/Rectangles
+/RectangleProcessor/bin/Debug/net6.0
+/RectangleProcessor/obj
+/RectangleProcessor.UnitTests/bin/Debug/net6.0
+/RectangleProcessor.UnitTests/obj
+/Rectangles/bin/Debug/net6.0
+/Rectangles/obj
